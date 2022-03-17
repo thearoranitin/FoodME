@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/thearoranitin/FoodME.git/static/css/main.6e34f117.chunk.css",
+    "main.js": "/thearoranitin/FoodME.git/static/js/main.b58f9ed5.chunk.js",
+    "main.js.map": "/thearoranitin/FoodME.git/static/js/main.b58f9ed5.chunk.js.map",
+    "runtime-main.js": "/thearoranitin/FoodME.git/static/js/runtime-main.4affcdda.js",
+    "runtime-main.js.map": "/thearoranitin/FoodME.git/static/js/runtime-main.4affcdda.js.map",
+    "static/js/2.347f83a0.chunk.js": "/thearoranitin/FoodME.git/static/js/2.347f83a0.chunk.js",
+    "static/js/2.347f83a0.chunk.js.map": "/thearoranitin/FoodME.git/static/js/2.347f83a0.chunk.js.map",
+    "static/js/3.bdc1abd8.chunk.js": "/thearoranitin/FoodME.git/static/js/3.bdc1abd8.chunk.js",
+    "static/js/3.bdc1abd8.chunk.js.map": "/thearoranitin/FoodME.git/static/js/3.bdc1abd8.chunk.js.map",
+    "index.html": "/thearoranitin/FoodME.git/index.html",
+    "static/css/main.6e34f117.chunk.css.map": "/thearoranitin/FoodME.git/static/css/main.6e34f117.chunk.css.map",
+    "static/js/2.347f83a0.chunk.js.LICENSE.txt": "/thearoranitin/FoodME.git/static/js/2.347f83a0.chunk.js.LICENSE.txt",
+    "static/media/Avocado.a47677c6.mp4": "/thearoranitin/FoodME.git/static/media/Avocado.a47677c6.mp4",
+    "static/media/Capture.611de11d.png": "/thearoranitin/FoodME.git/static/media/Capture.611de11d.png",
+    "static/media/carrot.6508ea02.png": "/thearoranitin/FoodME.git/static/media/carrot.6508ea02.png",
+    "static/media/check-mark.1c103279.png": "/thearoranitin/FoodME.git/static/media/check-mark.1c103279.png",
+    "static/media/date.fcfd3f00.png": "/thearoranitin/FoodME.git/static/media/date.fcfd3f00.png",
+    "static/media/fast.f1644b7d.png": "/thearoranitin/FoodME.git/static/media/fast.f1644b7d.png",
+    "static/media/footer.css": "/thearoranitin/FoodME.git/static/media/foodiesfeed.com_pizza-ready-for-baking.848a780e.jpg",
+    "static/media/star.49259244.png": "/thearoranitin/FoodME.git/static/media/star.49259244.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4affcdda.js",
+    "static/js/2.347f83a0.chunk.js",
+    "static/css/main.6e34f117.chunk.css",
+    "static/js/main.b58f9ed5.chunk.js"
+  ]
+}
